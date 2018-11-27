@@ -2,4 +2,4 @@
 
 A path finding navigation software implemented using OpenStreetMaps data. Programmed in C++, using STL and Boost Library data structures.
 
-Due to restrictions placed by the University of Toronto, the code for this project can not shown. These videos show the key functionalities of the application.
+This project is a full semester course project for ECE297. The University of Toronto has placed restrictions to prevent plagerism, so the code for this project is not shown. These videos show the key functionalities of the application.
